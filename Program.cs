@@ -1,4 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Hello, World!");
-
+﻿Console.Write("Введите ваше имя ");
+string username = Console.ReadLine();
+Console.Write("Привет, ");
+Console.Write(username);
+Console.Write (" Давай ты постараешься и сделаешь все, что бы научиться программировать. Это поможет тебе не чувствовать себя плохо, позволит стартовать в интересной и высокооплачиваемой профессии и реализовать тебя по жизни. Я верю в тебя, у тебя все получится!");
