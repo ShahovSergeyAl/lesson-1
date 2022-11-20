@@ -1,5 +1,3 @@
-﻿Console.Write("Введите ваше имя ");
-string username = Console.ReadLine();
-Console.Write("Привет, ");
-Console.Write(username);
-Console.Write (" Давай ты постараешься и сделаешь все, что бы научиться программировать. Это поможет тебе не чувствовать себя плохо, позволит стартовать в интересной и высокооплачиваемой профессии и реализовать тебя по жизни. Я верю в тебя, у тебя все получится!");
+﻿double numberA = 10;
+double numberB = 5;
+Console.WriteLine(numberA / numberB);
